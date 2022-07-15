@@ -1,5 +1,5 @@
-##GAME OF LIFE##
-#implementation by Piotr Rodkiewicz#
+**GAME OF LIFE**
+*implementation by Piotr Rodkiewicz*
 
 written only for linux systems.
 
